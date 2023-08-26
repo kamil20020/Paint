@@ -1,4 +1,4 @@
-# Paint
+# Paint (08.2020)
 Prosta aplikacja umożliwiająca użytkownikowi tworzenie obrazków i następnie eksportowanie ich po plików png.
 
 ## Wymagania funkcjonalne:
